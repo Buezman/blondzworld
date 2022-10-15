@@ -2,7 +2,7 @@
 
 Rest endpoints Beauty and wellness clinic's web app
 
-# TECHNOLOGIES USED FOR THIS PROJECT
+## TECHNOLOGIES USED FOR THIS PROJECT
 - Springboot
 - Spring security & JWT
 - Cloudinary
