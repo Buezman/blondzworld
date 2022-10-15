@@ -1,4 +1,4 @@
-package com.buezman.blondzworld.entity;
+package com.buezman.blondzworld.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
